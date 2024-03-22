@@ -5,7 +5,7 @@ This Node.js project generates a QR code for a given URL, allowing users to crea
 ## Features
 
 - **QR Code Generation**: The program generates a QR code image from a user-provided URL using the `qr-image` library.
-- **User Input**: Users are prompted to enter the URL they want to encode into the QR code.
+- **User Input**: Users are prompted to enter the URL they want to encode into the QR code (add resume URL).
 - **File Output**: The generated QR code image is saved as a PNG file (`url_qr_img.png`) in the project directory.
 - **URL Logging**: The input URL is also saved in a text file (`URL.txt`) for reference.
 
